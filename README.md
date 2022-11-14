@@ -6,5 +6,5 @@
 - media3-exoplayer: exoPlayer
 
 ## Demo
-![Screen1](/demo/screen1.jpg)
-![Screen2](/demo/screen2.png)
+<img src="/demo/screen2.png" width="250">
+<img src="/demo/screen1.jpg" width="250">
